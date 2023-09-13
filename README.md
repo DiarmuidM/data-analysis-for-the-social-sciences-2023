@@ -9,6 +9,7 @@ Specifically there is a set of interactive notebooks that allow learners to exec
 ## Materials
 
 The training materials can be found in the following folders:
+* [lectures](./lectures) - lecture slides and handouts for the rapid introduction to quantitative data analysis.
 * [lessons](./lessons) - Jupyter Notebooks containing executable R code and real, open social science datasets.
 
 ## License
