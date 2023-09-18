@@ -6,7 +6,7 @@ Typically you would download the data / code files to your local machine (e.g., 
 
 However you can complete the lessons online without the need to install or download anything. Simply click on the relevant link below.
 
-Please click the *Open in Colab* link; you may need to login / register for a Google account to run the code.
+Please click the *Open in Colab* link; you may need to login / register for a free Google account to run the code.
 
 ### Week 2
 
