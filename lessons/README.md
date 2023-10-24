@@ -16,6 +16,10 @@ Introduction to Data and R [![Open In Colab](https://colab.research.google.com/a
 
 Doing Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2023/blob/main/lessons/dass-week-3-doing-data-analysis.ipynb)
 
+### Week 8
+
+[Getting Started](https://github.com/DiarmuidM/data-analysis-for-the-social-sciences-2023/blob/main/lessons/dass-week-8-getting-started.ipynb)
+
 <!--### Week 9
 
 Univariate Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2023/blob/main/lessons/dass-week-9-univariate-analysis.ipynb)
