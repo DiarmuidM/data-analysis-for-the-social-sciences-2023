@@ -20,11 +20,11 @@ Doing Data Analysis [![Open In Colab](https://colab.research.google.com/assets/c
 
 [Getting Started](https://github.com/DiarmuidM/data-analysis-for-the-social-sciences-2023/blob/main/lessons/dass-week-8-getting-started.ipynb)
 
-<!--### Week 9
+### Week 9
 
 Univariate Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2023/blob/main/lessons/dass-week-9-univariate-analysis.ipynb)
 
-### Week 10
+<!--### Week 10
 
 Bivariate Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2023/blob/main/lessons/dass-week-10-bivariate-analysis.ipynb)
 
