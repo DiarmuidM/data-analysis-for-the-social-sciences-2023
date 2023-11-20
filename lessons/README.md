@@ -28,12 +28,12 @@ Univariate Data Analysis [![Open In Colab](https://colab.research.google.com/ass
 
 Bivariate Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2023/blob/main/lessons/dass-week-10-bivariate-analysis.ipynb)
 
-<!--### Week 11
+### Week 11
 
 Multivariate Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2023/blob/main/lessons/dass-week-11-multivariate-analysis.ipynb)
 
 Inferential Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2023/blob/main/lessons/dass-week-11-inferential-analysis.ipynb)
 
-### Week 12
+<!--### Week 12
 
 Publication Ready Graphs [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2023/blob/main/lessons/dass-week-12-publication-ready-graphs.ipynb)-->
